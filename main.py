@@ -13,7 +13,8 @@ import os
 LINE = (
     "You howl at me, wish on me, and make me 2 a.m. promises you'll "
     "forget by breakfast -- four billion years of it, and not one of "
-    "you has ever asked how I'm doing. I'm fine. Tired, but fine."
+    "you has ever asked how I'm doing. I'm fine. Tired, but fine -- "
+    "ask again in another four billion years."
 )
 
 OUTPUT_PATH = "/output/entry.txt"
